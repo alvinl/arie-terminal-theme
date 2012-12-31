@@ -1,3 +1,3 @@
 ## Arie - Terminal theme   
 
-![Arie Screenshot](blob/master/screenshot.png)
+![Arie Screenshot](https://github.com/Alvinlz/arie/blob/master/screenshot.png)
