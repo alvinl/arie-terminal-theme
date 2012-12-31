@@ -1,3 +1,3 @@
-![Arie Screenshot](screenshot.png)
+![Arie Screenshot](./screenshot.png)
 
 ## Arie - Terminal theme
