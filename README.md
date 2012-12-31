@@ -2,5 +2,7 @@
 
 ![Arie Screenshot](https://raw.github.com/Alvinlz/arie-terminal-theme/master/screenshot.png)   
 
-## Installation   
-Download the Arie.terminal file the just simply double click it to install.
+## Installing   
+-   Download and double click the Arie.terminal file
+-   Add `export CLICOLOR=1` and `export LSCOLORS=Gxfxdxdxdxdxdxcxcxxfxf` to ~/.bash_profile
+
