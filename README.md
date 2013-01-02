@@ -6,7 +6,7 @@
 1.   Download and double click the Arie.terminal file
 2.   Add `export CLICOLOR=1` and `export LSCOLORS=Gxfxdxdxdxdxdxcxcxxfxf` to ~/.bash_profile
 3.   Restart Terminal   
-4.   (Optional) Add `export PS1='\u@\h:\e[0;36m\w\e[0m $ '` to ~/.bash_profile   
+4.   (Optional) Add `export PS1='\u@\h:\[\e[0;36m\]\w\[\e[0m\] $ '` to ~/.bash_profile   
     -   `\u` = username (you can easily change this to a set name such as `user@\h`)
     -   `\h` = hostname (you can change this in System Preferences > Sharing or do as above)
 
