@@ -11,7 +11,7 @@
     -   `\h` = hostname (you can change this in System Preferences > Sharing or do as above)
 
 ## Resources    
-- More in-depth guide to styling the Terminal [here](http://osxdaily.com/2012/02/21/add-color-to-the-terminal-in-mac-os-x/)
+- More in-depth guide to styling Terminal [here](http://osxdaily.com/2012/02/21/add-color-to-the-terminal-in-mac-os-x/)
 - Customizing the prompt: [link](http://osxdaily.com/2006/12/11/how-to-customize-your-terminal-prompt/)
 
 ## Comments, questions or concerns?
